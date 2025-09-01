@@ -1,6 +1,6 @@
 # Engage-2-value-from-clicks-to-conversions
 
-# Machine Learning Practices - Project (CS2008p)
+## Machine Learning Practices - Project (CS2008p)
 
 ## About the Project
 - This is my project for the course **CS2008p (Machine Learning Practices Project)** under the BS in Data Science and Applications degree.
@@ -54,4 +54,3 @@ The general workflow followed in this project includes:
 
 ---
 
-*This README will be updated progressively as the project advances through its milestones.*
